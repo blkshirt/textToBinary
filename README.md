@@ -3,7 +3,9 @@
 # installing:
 
 sudo apt install python3
+
 sudo git clone https://github.com/blkshirt/textToBinary.git
+
 sudo apt update && upgrade
 
 # running:
